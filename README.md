@@ -3,3 +3,5 @@
 Carlos Miguel Weege Souza AED1 Turma M2
 
 Não fiz um video da primeira atividade
+
+Estou usando o padrão dos desenvolvedores do doom
