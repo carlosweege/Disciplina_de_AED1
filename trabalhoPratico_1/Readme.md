@@ -1,4 +1,4 @@
-#Carlos Miguel Weege Souza
+Carlos Miguel Weege Souza
 
 Determine if Two Events Have Conflict
 
